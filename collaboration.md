@@ -1,4 +1,4 @@
 # Collaboration
 Zijun and Sam are paired up in this assignment.
 We are going to make a divergence here.
-My git name is zfeng66.
+Our git names are zfeng66 and samozm respectively.
