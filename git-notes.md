@@ -31,7 +31,7 @@ git push origin master # or just "git push" if my branch "master" knows what it'
 git log --pretty=oneline --abbrev-commit
 ```
 
-Very important:
+Comments:
 - pull often!
 - commit your changes before pulling. Any change to an uncommitted file would stop the pull update.
 
@@ -50,7 +50,7 @@ git status # conflict. tells me what to do to resolve it
 git log --pretty=oneline --abbrev-commit
 ```
 
-Resolve merge conflict manually, then push the conflict resolution.
+Resolve merge conflict manually, then push the conflict resolution:
 ```zsh
 git status
 git add readme.md
