@@ -32,8 +32,8 @@ git log --pretty=oneline --abbrev-commit
 ```
 
 Comments:
-- pull often!
-- commit your changes before pulling. Any change to an uncommitted file would stop the pull update.
+- **pull often!**
+- *commit* your changes before pulling. Any change to an uncommitted file would stop the pull update.
 
 ### resolving conflicts and merge commits
 
