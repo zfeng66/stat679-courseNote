@@ -9,3 +9,7 @@ This repository is about *stat679* course notes and *git practice* assignment.
 ## collaboration with Sam
 
 `collaboration.md` records some information about my collaboration with Sam. We made an divergence on the **fourth** line and then I resolved that problem.
+
+## two new branches
+
+Sam and I create two new branches `sed` and `count` respectively.
