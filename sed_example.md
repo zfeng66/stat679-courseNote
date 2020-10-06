@@ -1,5 +1,5 @@
 # Sed Example
-echo "hello hello my name is sam" | sed -E 's/hello/goodbye/g' 
+echo "hello hello my name is sam" | sed -E 's/hello/hi/g' 
 
 ### Outputs
-goodbye goodbye my name is sam
+hi hi my name is sam
